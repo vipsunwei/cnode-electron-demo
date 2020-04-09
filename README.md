@@ -278,17 +278,17 @@ yarn add electron-builder@latest -D
 
 > 输出位置：`build`
 
-![安装包输出位置](https://user-gold-cdn.xitu.io/2020/4/10/1715ff114bc5e3b1?w=574&h=312&f=png&s=31416)
+![安装包输出位置](screenshot/output-path.png)
 
 我是`Mac`电脑生成的是`cnode-electron-demo-0.0.1.dmg`的安装包。  
 
 > 项目界面截图--列表页：
 
-![列表页截图](https://user-gold-cdn.xitu.io/2020/4/10/171601970a40a121?w=2048&h=1580&f=png&s=297878)
+![列表页截图](screenshot/list.png)
 
 > 项目界面截图--详情页：
 
-![详情页截图](https://user-gold-cdn.xitu.io/2020/4/10/171601b8967b4b4d?w=2048&h=1580&f=png&s=332851)
+![详情页截图](screenshot/details.png)
 
 ---
 
