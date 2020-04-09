@@ -2,6 +2,8 @@
 
 > An electron-vue project
 
+> ![掘金：https://juejin.im/post/5e8ad321e51d45470c12af2b](https://juejin.im/post/5e8ad321e51d45470c12af2b)
+
 ## 安装项目依赖
 接下来需要进入项目目录，执行下面的命令安装项目依赖
 ```sh
