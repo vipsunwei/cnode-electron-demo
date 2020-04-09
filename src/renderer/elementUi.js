@@ -2,7 +2,6 @@ import Vue from 'vue'
 import {
   Container,
   Header,
-
   Main,
   Footer,
   Menu,
