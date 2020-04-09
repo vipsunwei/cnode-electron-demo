@@ -278,17 +278,17 @@ yarn add electron-builder@latest -D
 
 > 输出位置：`build`
 
-![安装包输出位置](screenshot/output-path.png)
+![安装包输出位置](https://github.com/vipsunwei/cnode-electron-demo/blob/master/screenshot/output-path.png)
 
 我是`Mac`电脑生成的是`cnode-electron-demo-0.0.1.dmg`的安装包。  
 
 > 项目界面截图--列表页：
 
-![列表页截图](screenshot/list.png)
+![列表页截图](https://github.com/vipsunwei/cnode-electron-demo/blob/master/screenshot/list.png)
 
 > 项目界面截图--详情页：
 
-![详情页截图](screenshot/details.png)
+![详情页截图](https://github.com/vipsunwei/cnode-electron-demo/blob/master/screenshot/details.png)
 
 ---
 
